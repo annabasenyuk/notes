@@ -1,6 +1,5 @@
 import { createSlice } from '@reduxjs/toolkit'
 import { Note } from '../../types/Note'
-// import type { PayloadAction } from '@reduxjs/toolkit'
 
 const notesSlice = createSlice({
   name: 'todos',
